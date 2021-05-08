@@ -20,7 +20,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p>
 Frontend:
-    <a href="https://reactjs.org/ target=" _blank">
+    <a href="https://reactjs.org/" target=" _blank">
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></code>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
